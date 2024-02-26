@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Olá mundo</Text>
-      <TextInput defaultValue="Digite aqui:" />
+      <TextInput defaultValue="Digite aqui" />
       <StatusBar style="auto" />
     </View>
   );
