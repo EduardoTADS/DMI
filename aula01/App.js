@@ -11,11 +11,11 @@ export default function App() {
         source={require("./assets/icaro.png")}
         style={{ width: 150, height: 200 }}
       />
+
       <Image
         source={require("./assets/teste.gif")}
-        style={{ width: 350, height: 300 }}
+        style={{ width: 300, height: 300 }}
       />
-
       <StatusBar style="auto" />
     </View>
   );
